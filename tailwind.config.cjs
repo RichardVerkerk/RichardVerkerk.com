@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['"B612 Mono"'],
+        pacifico: ['"Pacifico"'],
       },
     },
   },

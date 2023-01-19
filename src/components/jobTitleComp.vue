@@ -7,8 +7,8 @@
 export default {
     data() {
         return {
-            jobTitles: ['PHP developer', 'Laravel developer', 'Webdeveloper', 'back-end developer', 'front-end developer'],
-            jobTitle: 'front-end developer',
+            jobTitles: ['Laravel developer', 'Webdeveloper', 'Back-end developer', 'Front-end developer', 'Full-stack developer', 'PHP developer'],
+            jobTitle: 'PHP developer',
             count: 0,
         }
     },
