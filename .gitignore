@@ -13,7 +13,7 @@ dist-ssr
 *.local
 
 #deplyer
-vender
+vendor
 deploy.php
 
 # Editor directories and files
