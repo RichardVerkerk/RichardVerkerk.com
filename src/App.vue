@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import appLogo from './components/AppLogo.vue';
+import appLogo from './components/global/AppLogo.vue';
 
 export default {
   components: {
