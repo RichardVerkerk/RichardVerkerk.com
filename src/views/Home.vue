@@ -1,12 +1,12 @@
 <template>
-    <div class="font mb-3 bg-white p-5 rounded-xl shadow-lg">
-        <p class="mb-5">
+    <div class="font mb-3 bg-white p-5 rounded-xl shadow-lg border border-gray-100">
+        <p class="mb-5 text-lg font-bold">
             Hey, mijn naam is <span class="text-orange-500">Richard Verkerk</span> en ik ben een
             <span class="text-orange-500">
                 <jobTitleComp />
             </span>.
         </p>
-        <p class="mb-5">Op dit moment werk ik vooral met het <a href="https://laravel.com/">Laravel</a> framework. Ik
+        <p class="mb-5">Op dit moment werk ik vooral met het Laravel framework. Ik
             heb ongeveer 4
             jaar ervaring met het ontwikkelen
             van webapplicaties met Laravel, waaronder een debiteurenbeheer systeem en een e-commerce systeem. Mijn
